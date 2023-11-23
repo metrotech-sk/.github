@@ -36,7 +36,7 @@ Currently, it supports the following sensors:
 - Light pollutants (lux)
 - Sound pollutants (dB)
 
-### [xerxes-sim-bridge](xerxes-sim-bridge)
+### [xerxes-sim-bridge](./xerxes-sim-bridge)
 This repository contains a bridge between the xerxes-rp2040 sensors and the REST
 API. It is written in C++ and runs on the ESP32 microcontroller. It uses SIM
 cards to connect to the internet and send data to the REST API using LTE-M.

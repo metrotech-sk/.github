@@ -17,7 +17,7 @@ extensible.
 see [architecture.drawio](architecture.drawio)
 
 ## Repositories
-### [xerxes-rp2040](xerxes-rp2040)
+### [xerxes-rp2040](https://github.com/metrotech-sk/xerxes-rp2040)
 This repository contains the firmware for the xerxes sensors. It is written in
 C++ and runs on the RP2040 microcontroller. It is designed to be modular and
 extensible.
